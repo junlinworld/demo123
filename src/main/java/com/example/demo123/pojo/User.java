@@ -5,4 +5,5 @@ public class User {
     String userName;
     String userPassword;
     int age;
+    String tall;
 }
